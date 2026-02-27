@@ -59,7 +59,7 @@ Elimina un usuario por ID.
 
 Retorna 404 si no existe.
 
-⚠️ Manejo de errores
+ Manejo de errores
 
 La API incluye:
 
